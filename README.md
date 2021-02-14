@@ -3,7 +3,6 @@ Chicago Restaurant Inspections
 
 ## ***Making The Cut:*** Predicting Inspection Results for Chicago Based Restaurants
 
-------
 
 ### Objectives:
 
