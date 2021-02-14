@@ -1,5 +1,5 @@
-# Chicago Restaurant Inspections 
-Classification Project
+# Chicago Restaurant Inspections (Classification)
+Metis Classification Project
 
 ## ***Making The Cut:*** Predicting Inspection Results for Chicago Based Restaurants
 
