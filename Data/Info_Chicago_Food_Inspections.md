@@ -9,6 +9,7 @@ Note about 7/1/2018 change to food inspection procedures that affects the data i
 Disclaimer: Attempts have been made to minimize any and all duplicate inspection reports. However, the dataset may still contain such duplicates and the appropriate precautions should be exercised when viewing or analyzing these data. The result of the inspections (pass, pass with conditions or fail) as well as the violations noted are based on the findings identified and reported by the inspector at the time of the inspection, and may not reflect the findings noted at other times. For more information about Food Inspections, go to https://www.cityofchicago.org/city/en/depts/cdph/provdrs/healthy_restaurants/svcs/food-protection-services.html.
 
 
+## Dataset Information
 
 **Title:** Food Inspections
  **Brief Description:** This dataset contains information from inspections of restaurants and other
