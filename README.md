@@ -1,5 +1,5 @@
-# Classification_Project
-Chicago Restaurant Inspections
+# Chicago Restaurant Inspections 
+Classification Project
 
 ## ***Making The Cut:*** Predicting Inspection Results for Chicago Based Restaurants
 
