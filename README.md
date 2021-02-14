@@ -41,15 +41,10 @@ Chicago Open Source Data Portal
 ### Tools Used:
 
 - Seaborn
-
 - Pandas
-
 - Matplotlib
-
 - Tableau
-
 - Numpy
-
 - Sklearn
 
 ------
