@@ -47,7 +47,7 @@ This challenge uses the [W3Schools SQL playground](http://www.w3schools.com/sql/
    SELECT Categories.CategoryName, OderDetails.Quantity
    FROM ((Products
          INNER JOIN Categories ON Products.CategoryID=Categories.CategoryID)
-         INNN JOIN OrderDetails ON Products.ProductID= OrderDetails.ProductID)
+         INNER JOIN OrderDetails ON Products.ProductID= OrderDetails.ProductID)
    ORDER BY Quantity DESC;
    ```
 
